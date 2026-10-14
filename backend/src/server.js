@@ -63,7 +63,7 @@ app.use((err, req, res, next) => {
 
 // Start Server
 if (process.env.NODE_ENV !== "test") {
-  app.listen(config.port, async () => {
+  app.listen(config.port, "0.0.0.0", async () => {
     console.log("=================================================");
     console.log(` ChainGuard Backend Gateway running on port ${config.port}`);
     console.log(` RPC Endpoint: ${config.rpcUrl}`);
