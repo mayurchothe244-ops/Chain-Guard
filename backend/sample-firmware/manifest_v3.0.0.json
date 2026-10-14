@@ -1,0 +1,13 @@
+{
+  "version": "3.0.0",
+  "versionCode": 300,
+  "deviceModel": "ESP32-GridMeter-Pro",
+  "filename": "firmware_v3.0.0.bin",
+  "fileSize": 4096,
+  "sha256": "13ad19f3f16942bdd55234a7cc903d5bc86ace3674099866b8a02e0d51222aaf",
+  "sha256Bytes32": "0x13ad19f3f16942bdd55234a7cc903d5bc86ace3674099866b8a02e0d51222aaf",
+  "signature": "28d0208cd07492ebc57357fc7d55766f4995ec4c3f6de61515b6c33e3408889e28cd39d0701741ffdb3f4d28267ad40b0cff1f1a3fe6744a423cbf92ebde570d",
+  "signer": "Trusted Vendor (Ed25519)",
+  "isTrustedSigner": true,
+  "description": "Next-generation firmware v3.0.0 - performance and feature enhancements"
+}

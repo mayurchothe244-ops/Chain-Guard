@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "versionCode": 200,
+  "deviceModel": "ESP32-GridMeter-Pro",
+  "filename": "firmware_v2.0.0.bin",
+  "fileSize": 4096,
+  "sha256": "d9bd2d8f48eb271bdbdf9ac705b4d081997009364e4e920067c9f92b43101f36",
+  "sha256Bytes32": "0xd9bd2d8f48eb271bdbdf9ac705b4d081997009364e4e920067c9f92b43101f36",
+  "signature": "1d5c95c8f54308914fe326762d9c0f01d94ab0bf84007f6d00410ed8e98360064f5207db08023dcff54ffc1d0321c9e0a38c0616a6b79861b2a157cf7016a508",
+  "signer": "Attacker / Untrusted Developer",
+  "isTrustedSigner": false,
+  "description": "Valid binary v2.0.0, but signed with an unrecognized rogue private key"
+}

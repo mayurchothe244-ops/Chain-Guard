@@ -1,0 +1,22 @@
+{
+  "name": "chainguard",
+  "version": "1.0.0",
+  "description": "ChainGuard - Blockchain-Based IoT Firmware Downgrade Protection System",
+  "private": true,
+  "scripts": {
+    "compile": "hardhat compile",
+    "test:contract": "hardhat test",
+    "node": "hardhat node",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "seed": "node scripts/generate-demo-data.js",
+    "backend": "npm --prefix backend start",
+    "backend:test": "npm --prefix backend test",
+    "frontend": "npm --prefix frontend run dev"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.0.2",
+    "ethers": "^6.13.0",
+    "hardhat": "^2.22.5"
+  }
+}

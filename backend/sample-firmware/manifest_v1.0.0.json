@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "versionCode": 100,
+  "deviceModel": "ESP32-GridMeter-Pro",
+  "filename": "firmware_v1.0.0.bin",
+  "fileSize": 4096,
+  "sha256": "51b6a178a48bc8c3328d6d488f0dae46f40300b6129690eb2fd3ac038bc31c65",
+  "sha256Bytes32": "0x51b6a178a48bc8c3328d6d488f0dae46f40300b6129690eb2fd3ac038bc31c65",
+  "signature": "e5032909607899e289f0adb6a245cac38c639733d0b4caf7b8a737c574e8ea5a6bcab16a294f780bd160e60fbc5e63aad378e81ae3d6d1a6f4449da25fc4f20f",
+  "signer": "Trusted Vendor (Ed25519)",
+  "isTrustedSigner": true,
+  "description": "Legacy firmware v1.0.0 - contains buffer overflow vulnerability (CVE-2025-9999)"
+}
